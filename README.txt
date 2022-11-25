@@ -10,4 +10,3 @@ Méthodologie de travail:
 
 -
 
-BINOME: BENATALLAH Rayan Ibrahim & MALLEK Lina
