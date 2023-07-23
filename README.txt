@@ -1,4 +1,4 @@
-# Méthodologie de travail:
+#Méthodologie de travail:
 
 -le fichier defs contient les differents paramètres et définitions pour l'affichage graphique des éléments.
 
