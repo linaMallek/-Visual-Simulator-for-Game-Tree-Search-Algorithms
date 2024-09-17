@@ -1,11 +1,23 @@
-# Méthodologie de travail:
+# MiniMax and NegaMax with Alpha-Beta Pruning
 
--le fichier defs contient les differents paramètres et définitions pour l'affichage graphique des éléments.
+This Python project uses the `pygame` library to implement game tree search algorithms, including:
+- MiniMax
+- NegaMax
+- Alpha-Beta Pruning
 
--on a préféré déviser les codes pour pas encombrer le main et que sa serait plus facile a visualiser.
+## Features
+- User interface built with `pygame`.
+- Depth-limited game tree initialization.
+- Algorithms include:
+  - MiniMax (Player Max and Min)
+  - NegaMax
+  - NegaMax with Alpha-Beta Pruning
 
--le fichier node contient l'initialisation de la class node avec les différents GETTERS AND SETTERS.
+## Requirements
+- Python 3.x
+- `pygame` library
 
--le fichier main lancera le projet, lorsque la fin de chaque simulation, le retour au menu est automatique, vous pourriez en choisir une autre algo sans reexécuter le programme a nouveau
+Install `pygame` using:
 
--
+```bash
+pip install pygame
