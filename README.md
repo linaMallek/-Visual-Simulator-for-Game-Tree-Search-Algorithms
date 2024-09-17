@@ -22,4 +22,4 @@ Install `pygame` using:
 ```bash
 pip install pygame
 ```
-![Canva Design](CanvaDesing.png)
+![Canva Design](CanvaDesign.png) 
