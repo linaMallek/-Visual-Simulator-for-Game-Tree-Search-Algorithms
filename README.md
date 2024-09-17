@@ -21,3 +21,5 @@ Install `pygame` using:
 
 ```bash
 pip install pygame
+```
+<img alt="CanvaDesing.png">
